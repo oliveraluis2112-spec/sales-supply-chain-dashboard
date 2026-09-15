@@ -22,7 +22,6 @@ En la gestión comercial y de cadena de suministro es fundamental monitorear el 
 Dataset transaccional obtenido de Kaggle:  
 [Retail & Supply Chain Sales Dataset – Kaggle](https://www.kaggle.com/code/mahmoudredagamail/retail-supply-chain-sales-dataset)
 
-```text
 sales-supply-chain-dashboard/
 │
 ├── data/
@@ -31,6 +30,7 @@ sales-supply-chain-dashboard/
 │   └── dashboard.png                   # Captura de pantalla del Dashboard
 ├── Sales_and_Supply_Chain_Dashboard.xlsx # Libro en Excel con Power Query, Power Pivot y DAX
 └── README.md                           # Documentación principal
+
 # Análisis de Negocio y Hallazgos Principales
 
 ## Indicadores Generales (KPIs)
