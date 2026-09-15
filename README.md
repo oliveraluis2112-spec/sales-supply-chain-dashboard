@@ -73,15 +73,19 @@ El dataset contiene información relacionada con órdenes de venta, productos, c
 
 ## Estructura del proyecto
 
-```text
 sales-supply-chain-dashboard/
 │
 ├── data/
 │   └── raw_data.csv
+│       └── Dataset original utilizado para el análisis
+│
+├── Dashboard/
+│   └── Sales_and_Supply_Chain_Dashboard.xlsx
+│       └── Dashboard desarrollado en Excel
 │
 ├── docs/
 │   └── dashboard.png
-│
-├── Sales_and_Supply_Chain_Dashboard.xlsx
+│       └── Captura del dashboard
 │
 └── README.md
+    └── Documentación del proyecto
