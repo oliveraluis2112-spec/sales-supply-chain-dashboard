@@ -236,7 +236,7 @@ El dashboard fue desarrollado en **Microsoft Excel** utilizando tablas dinámica
 
 La solución permite interactuar con los principales indicadores y analizar la información desde diferentes perspectivas comerciales.
 
-![Sales & Supply Chain Dashboard](docs/dashboard.png)
+<img width="1803" height="757" alt="dashboard" src="https://github.com/user-attachments/assets/16e0627b-23e0-4bd7-9696-6cdd634b74d8" />
 
 ---
 
